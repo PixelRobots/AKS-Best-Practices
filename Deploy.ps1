@@ -111,3 +111,14 @@ az aks get-credentials -g $resourceGroupNameAKS -n $kubernetesClusterName
 
 <# Kubectl get nodes #>
 Kubectl get nodes
+
+
+<# Helpful Links #>
+# AKS RoadMap
+https://github.com/Azure/AKS/projects/1
+
+# AKS Releases
+https://github.com/Azure/AKS/releases
+
+# AKS Workshop
+https://docs.microsoft.com/en-us/learn/modules/aks-workshop/
